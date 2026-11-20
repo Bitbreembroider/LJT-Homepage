@@ -1,6 +1,8 @@
 ---
+layout: single
 permalink: /
 title: "Junteng Liu"
+author: "Junteng Liu"
 author_profile: true
 redirect_from: ["/about/", "/about.html"]
 ---
@@ -42,7 +44,7 @@ First-year PhD candidate at the HKUST NLP Group; PhD in Computer Science at The 
 
 ## Publications
 
-All six publications from memory are recorded here and on the [Publications page](/publications/). A date-sorted list is also available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
+All six publications from memory are recorded here and on the [Publications page]({{ '/publications/' | relative_url }}). A date-sorted list is also available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
 
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond.** Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. arXiv, 2025. First author; memory records an associated GitHub code repository.
 2. **On the Perception Bottleneck of VLMs for Chart Understanding.** Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. arXiv, 2025. First author; code repository name in memory: `Vision4Chart`.
